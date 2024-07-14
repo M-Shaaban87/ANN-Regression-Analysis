@@ -1,5 +1,5 @@
 '''
-This script effectively creates, trains, and evaluates multiple CNN models, 
+This script effectively creates, trains, and evaluates multiple ANN models, 
 for regression analysis and prediction.
 Created by: Dr. Mohammed Shaaban ... Assistant Professor (Structural Engineering)
 Email: mohamed.selim@deltauniv.edu.eg
